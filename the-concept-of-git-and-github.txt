@@ -1,0 +1,7 @@
+The concept of Git. Developers use specific commands to copy, create, change, and combine code. 
+These commands are often executed directly from the instruction or by using an application like GitHub Desktop or Git Kraken. 
+The repository holds all versions of the content, while the working directory is the place where you modify the code. 
+You checkout code from the repository to the working directory and commit changes you’ve made during this working directory into a replacement version of the content within the repository. 
+While GitHub is one of the foremost widely used platforms by developers for hosting repositories stored within the cloud. 
+Continuous Integration (IC) is a practice that needs frequently adding new shared code to a repository to detect errors within the shortest possible time. For this reason, GitHub proposed not only to host our code in their repositories, 
+but to automate the compilation and testing steps of our projects.
