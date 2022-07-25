@@ -1,0 +1,6 @@
+Git is usually used for commercial and open-source software development, and has significant benefits for people, teams, and businesses.
+Git allows developers to work out the whole timeline of changes, decisions, and progress for any project in one place. From the instant they access the project history, developers have all the context they have to grasp it and begin contributing.
+developers add on every occasion zone. Companies using Git can break down communication barriers between teams and permit them to specialize in doing their best work. 
+Additionally, Git enables experts from across the corporate to collaborate on important projects. 
+While GitHub is a Git hosting repository that gives developers with tools to ship better code through program line features, issues (threaded discussions), pull requests, code review, or the utilization of a group of free 
+and for-purchase apps within the GitHub Marketplace. With collaboration layers just like the GitHub flow, a community of 15 million developers, and an ecosystem with many integrations, GitHub changes the way software is made.
